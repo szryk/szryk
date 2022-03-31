@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yiğit 
 - 👀 I’m interested in you
 - 🌱 I’m currently learning dart and how to communicate
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via mail : Szryoku@gmail.com
